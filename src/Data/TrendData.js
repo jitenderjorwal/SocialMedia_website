@@ -1,0 +1,22 @@
+export const TrendData=[
+    {
+        name:"Hulk",
+        shares:74,
+},
+    {
+        name:"Thor",
+        shares:82,
+},
+    {
+        name:"Spider",
+        shares:80,
+},
+    {
+        name:"Blackwidow",
+        shares:85,
+},
+    {
+        name:"Deadpool",
+        shares:79,
+},
+]
